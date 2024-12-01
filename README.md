@@ -1,2 +1,4 @@
 # Justin_Wrenn_Projects
-Predict_RunPass: This is an Notebook project where I look at sample NFL data and using decision tree modeling try to determine if the given play is going to be a run or a pass using pre-snap factors. 
+Team Report Example: Report displaying player and team stats for a selected team over a custom date range. Please note color coded team ranks and per possession stat calculations, shot charts created using x,y location data points, "Big Bonus" breakdown using custom SQL query/aggregation from play by play events table. 
+Player Noah Breakdown: This report generated to PDF looks at change over time for a player and their percentage of shots in the ideal range during practice shooting sessions. Can generate this based on shot type, date ranges, and player name. Key tools that are used are SQL, Pandas, and Matplotlib. 
+Predict_RunPass: This is an Notebook project where I look at sample NFL data and use decision tree modeling to determine if the given play is going to be a run or a pass using pre-snap factors. 
